@@ -28,7 +28,7 @@ from .modules.keymap_manager import (draw_key, register_keymap,
 bl_info = {
     "name": "Modfiers Quick Actions",
     "author": "Oleg Stepanov (DotBow)",
-    "description": "Perform actions on modifiers under cursor (Appy, Duplicate, Delete)",
+    "description": "Perform actions on modifiers under cursor (Apply, Duplicate, Delete)",
     "blender": (2, 90, 0),
     "version": (1, 0, 0),
     "location": "Properties Editor > Modifiers",
